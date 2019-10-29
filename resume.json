@@ -1,0 +1,311 @@
+{
+  "basics": {
+    "name": "TzuShun Hung",
+    "label": "Senior DevOps Engineer at Netbase",
+    "summary": "**IT infrastructure and database administration with 12+ years experience** specializing in ecommerce and system architecture.",
+    "phone": "+886939891035",
+    "email": "hung.allan@gmail.com",
+    "picture": "https://avatars2.githubusercontent.com/u/7939780",
+    "location": {
+      "address": "No.168, Zhongxing N. St., Sanchong Dist.",
+      "postalCode": "24152",
+      "city": "New Taipei City",
+      "countryCode": "TW"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "allanhung",
+        "url": "https://github.com/allanhung",
+        "iconClass": "fa fa-github-square"
+      },
+      {
+        "network": "Linkedin",
+        "username": "TzuShun Hung",
+        "url": "https://www.linkedin.com/in/tzu-shun-hung-826494ab/",
+        "iconClass": "fa fa-linkedin-square"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Netbase",
+      "website": "https://www.netbase.com/",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2019-07",
+      "endDate": "Present",
+      "summary": "Automate cloud infrastructure, systems scalability, and systems/network security.",
+      "highlights": [
+        "Build lab envirnment for learning netbase knowledge.",
+        "Build kubernetes develop envirnment (Prometheus operator, fluent-bit with loki and syslog module).",
+        "Patch alicloud oss bucket flexvolume driver for kubernetes.",
+        "Config management (spring cloud config)."
+      ] 
+    },  
+    {
+      "company": "TrendMicro",
+      "website": "https://www.trendmicro.com/",
+      "position": "DBA II",
+      "startDate": "2017-02",
+      "endDate": "2019-06",
+      "summary": "Database Architecture and performance tunning. Build AWS RDS like service.",
+      "highlights": [
+        "MySQL Database troubleshooting and performance tunning.",
+        "Implemented MySQL 3-site replication.",
+        "Porting MySQL HA architecture(MySQL-mmm) to AWS.",
+        "Provide training and workshop of ansible to RD Team.",
+        "MySQL upgrade project. (docker)",
+        "Database upgrade and migrate for datacenter decommission.",
+        "Implemented restful api to provision database. (golang, python, ansible)",
+        "Implemented DB monitor tool. (Prometheus and garfana)",
+        "Implemented CI/CD in Database as service project. (Jenkins)",
+        "Implemented Database as service project into kubernetes. (Kubernetes and Istio)",
+        "Container Service in Datacenter. (VMWare PKS)",
+        "Evaluate container security. (TrendMicro Deep Security Smart Check)",
+        "Chat-Ops bots to auto provision ec2 in aws environments.",
+        "Infrastructure as code with Terraform.",
+        "2018 Trendmicro AI contest",
+        "2018 AWS Gameday (second place)",
+        "Google cloud onboard",
+        "AWS advanced architecture training",
+        "Volunteer program for school without resource (scratch, 3D print)"
+      ] 
+    },
+    {
+      "company": "Uitox",
+      "website": "http://www.uitox.com/",
+      "position": "IT Manager",
+      "startDate": "2012-12",
+      "endDate": "2016-12",
+      "summary": "Worked as e-commerce IT Manager, I have to delivery solution by leading technical and analyze and diagnose any issues that may impact performance.  Also need to consider system scalability.",
+      "highlights": [
+        "Designing and building networks (9 countries).",
+        "Implemented netflow dashboard. (nfdump, kafka).",
+        "Setup and manage multiple servres. (lvs, nginx,  php,  redis,  rabbitmq,  solr) (2000+ VMs)",
+        "Implemented automated installation system for Linux and VMWare. (saltstack, ansible, cobbler)",
+        "Implemented automated network devuce installation system. (saltstack, ansible, juniper)",
+        "Implemented image cache system (varnish) and optimize the hit ratio.",
+        "Design the domain name rule for the http accelerate.",
+        "Gitlab server administration.",
+        "Implemented Centralize Log system. (ELK)",
+        "Real time log analysis. (spark)",
+        "Vulnerability scanning and vulnerability management. (OpenVAS)",
+        "F5 network device administration.",
+        "Implemented F5 GTM for ISP auto selection.",
+        "Netapp Storage administration.",
+        "Implemented VMware Horizon View for VPN user.",
+        "Design and implemented Hybrid cloud architecture. (softlayer)",
+        "Implemented monitor system. (cacti, icinga, zabbix)",
+        "Build Asus E-commerce Website in China. (store.asus.com.cn)",
+        "Build Feiniu E-commerce Website in China. (www.feiniu.com)"
+      ]
+    },
+    {
+      "company": "Ruten",
+      "website": "https://www.ruten.com.tw/",
+      "position": "Oracle Database Consultant",
+      "startDate": "2010-01",
+      "endDate": "2012-12",
+      "summary": "Sharing successful experiences in PCHome to Ruten",
+      "highlights": [
+        "Consulting service.",
+        "Database Monitoring and performance tuning.",
+        "Data Replication from main database to share read loading (Read write sperate).",
+        "Database upgrade project (Oracle 10g RAC to 11g RAC)."
+      ]
+    },
+    {
+      "company": "PCHome",
+      "website": "https://24h.pchome.com.tw/",
+      "position": "Oracle Database Administrator",
+      "startDate": "2006-10",
+      "endDate": "2012-12",
+      "summary": "Monitored alerts and supported RAC, non-RAC, Data Guard databases on Linux servers. Aanalyzed, created solutions for challenging performance-tuning situations; recovered databases; proactively patched and upgraded databases to latest release; performed database change requests.",
+      "highlights": [
+        "Administered Oracle 10g RAC.",
+        "Monitored and tuned database performance.",
+        "Automated and implemented backup and recovery procedures.",
+        "Datacenter migration project.",
+        "Disaster recovery site project.",
+        "Provided troubleshooting support.",
+        "Supported development staff.",
+        "Database upgrade project (Oracle 10g RAC to 11g RAC).",
+        "Configured standby databases for our existing Production databases and activated for testing.",
+        "Administered MySQL Cluster. (Web session database)",
+        "Data Replication from main database to share read loading.",
+        "Implemented LVS for readonly database.",
+        "Icinga monitor system administration."
+      ]
+    },
+    {
+      "company": "PCHome",
+      "website": "https://24h.pchome.com.tw/",
+      "position": "Senior Developer",
+      "startDate": "2006-04",
+      "endDate": "2006-10",
+      "summary": "Delphi developer. Created a internal ERP system.",
+      "highlights": [
+        "Developers programming applications for internal erp system.",
+        "Experience with distributed (multi-tiered) systems and relational databases.",
+        "Participate in the design, implementation, maintenance, enhancement and support of software modules.",
+        "Implemented ODAC connection pooling to connect to Oracle.",
+        "Developed Oracle PL/SQL packages and stored procedures."
+      ]
+    },
+    {
+      "company": "Sanofi",
+      "website": "https://www.sanofi.com/",
+      "position": "IT Specialist",
+      "startDate": "2004-05",
+      "endDate": "2006-02",
+      "summary": "BI report and diagnose, troubleshoot and resolves a range of software, hardware and connectivity issues.",
+      "highlights": [
+        "User help desk.",
+        "Asset management.",
+        "Windows AD Server administration",
+        "Lotus mail server administration",
+        "Built BI reports (congos), models, dashboards, and templates for merchandising, sales audit, warehouse management, inventory optimization, and other areas."
+      ]
+    },
+    {
+      "company": "Sinetics",
+      "website": "https://www.sinetics.com.tw/",
+      "position": "Developer and System administrator.",
+      "startDate": "2000-06",
+      "endDate": "2004-05",
+      "summary": "Delphi developer. Created a laboratory information management system.",
+      "highlights": [
+        "Analyzed and made changes in existing versions of business applications.",
+        "Coordinated with customer and communicated requirements.",
+        "Designed and developed Laboratory Information Management System.",
+        "Maintained project status reports and technical documents.",
+        "Understanding business requirements and and designing software components.",
+        "Firewall (iptables), DNS, mail server administrator"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chung Yuan Christian University",
+      "area": "Mechanical Engineering",
+      "startDate": "1994-09",
+      "endDate": "1998-06",
+      "studyType": "University"
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS GameDay 2018",
+      "date": "2018-06-28",
+      "awarder": "AWS",
+      "summary": "Second Place."
+    }
+  ],
+  "certifications" : [
+    {
+      "name": "Oracle Certified Associate - Oracle 10g Database Administrator",
+      "url": "https://www.youracclaim.com/badges/be903a27-9949-46f2-80dc-e84b7535c7cd",
+      "startDate": "2008-10-04",
+      "endDate": ""
+    },
+    {
+        "name": "Oracle Certified Professional - Oracle 10g Database Administrator",
+        "url": "https://www.youracclaim.com/badges/03fcfee6-c105-4e0c-9504-128d8f0e318d",
+        "startDate": "2008-10-10",
+        "endDate":  ""
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2019-01-04&ci=AWS00502599",
+      "startDate": "2019-01-04",
+      "endDate": "2022-01-05"
+    },
+    {
+      "name": "AWS Certified DevOps Engineer - Professional",
+      "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-01-17&ci=AWS00502599",
+      "startDate": "2019-01-17",
+      "endDate": "2022-01-18"
+    }    
+  ],
+  "skills": [
+    {
+      "name": "System",
+      "keywords": [
+        "CentOS",
+        "Debian",
+        "Archlinux"
+      ]
+    },
+    {
+      "name": "devices",
+      "keywords": [
+        "Juniper",
+        "F5 LTM",
+        "F5 GTM",
+        "Netapp Storage"
+      ]
+    },    
+    {
+      "name": "Softwares",
+      "keywords": [
+        "ansible",
+        "coredns",
+        "docker",
+        "elasticsearch",
+        "etcd",
+        "fluent-bit",
+        "gitlab",
+        "grafana",
+        "logstash",
+        "loki",
+        "lvs",
+        "jenkins",
+        "kafka",
+        "kubernetes",
+        "mongodb",
+        "mysql",
+        "nginx",
+        "oracle",
+        "prometheus",
+        "redis",
+        "rabbitmq",
+        "saltstack",
+        "solr",
+        "squid",
+        "terraform",
+        "terraformer",
+        "varnish"
+      ]
+    },
+    {
+      "name": "Langages",
+      "keywords": [
+        "Delphi",
+        "Python",
+        "Golang",
+        "Scala",
+        "Spark"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling"
+    },
+    {
+      "name": "Travel"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "level": "Native",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Medium",
+      "fluency": "Medium"
+    }
+  ]
+}
