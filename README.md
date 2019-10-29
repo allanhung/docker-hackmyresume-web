@@ -38,17 +38,17 @@ Use from command line (port 8005):
 
 Use git template (port 8005):
 
-  docker run -p 8005:80 \
-    -e 'OUTPUT_TEMPLATE=kendall' \
-    -e 'TEMPLATE_GIT=git://github.com/allanhung/jsonresume-theme-kendall' \
-    -e 'RESUME_JSON_URL=https://raw.githubusercontent.com/allanhung/docker-hackmyresume-web/master/resume.json' \
-    nouchka/hackmyresume-web
+	docker run -p 8005:80 \
+		-e 'OUTPUT_TEMPLATE=kendall' \
+		-e 'TEMPLATE_GIT=git://github.com/allanhung/jsonresume-theme-kendall' \
+		-e 'RESUME_JSON_URL=https://raw.githubusercontent.com/allanhung/docker-hackmyresume-web/master/resume.json' \
+		nouchka/hackmyresume-web
 
 Use other template [JsonResume themes](https://jsonresume.org/themes/) (port 8005):
 
-  docker run -p 8005:80 \
-    -e 'OUTPUT_TEMPLATE=dave' \
-    -e 'RESUME_JSON_URL=https://raw.githubusercontent.com/allanhung/docker-hackmyresume-web/master/resume.json' \
+	docker run -p 8005:80 \
+		-e 'OUTPUT_TEMPLATE=dave' \
+		-e 'RESUME_JSON_URL=https://raw.githubusercontent.com/allanhung/docker-hackmyresume-web/master/resume.json' \
 
 or use with docker compose (port 8005):
 
