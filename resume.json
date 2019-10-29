@@ -66,7 +66,6 @@
         "Infrastructure as code with Terraform.",
         "2018 Trendmicro AI contest",
         "2018 AWS Gameday (second place)",
-        "2018 Employee of the 2nd Quarter",
         "Google cloud onboard",
         "AWS advanced architecture training",
         "Volunteer program for school without resource (scratch, 3D print)"
@@ -200,6 +199,12 @@
       "date": "2018-06-28",
       "awarder": "AWS",
       "summary": "Second Place."
+    },
+    {
+      "title": "Employee of Quarter",
+      "date": "2018-04-20",
+      "awarder": "Trendmicro",
+      "summary": "EOQ."
     }
   ],
   "certifications" : [
