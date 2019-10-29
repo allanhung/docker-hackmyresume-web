@@ -49,6 +49,7 @@ Use other template [JsonResume themes](https://jsonresume.org/themes/) (port 800
 	docker run -p 8005:80 \
 		-e 'OUTPUT_TEMPLATE=dave' \
 		-e 'RESUME_JSON_URL=https://raw.githubusercontent.com/allanhung/docker-hackmyresume-web/master/resume.json' \
+		nouchka/hackmyresume-web
 
 or use with docker compose (port 8005):
 
