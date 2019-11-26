@@ -39,7 +39,8 @@
         "Build lab envirnment for learning netbase knowledge.",
         "Build kubernetes develop envirnment (Prometheus operator, fluent-bit with loki and syslog module).",
         "Patch alicloud oss bucket flexvolume driver for kubernetes.",
-        "Config management (spring cloud config)."
+        "Config management (spring cloud config).",
+        "Service discovery for prometheus"
       ] 
     },  
     {
