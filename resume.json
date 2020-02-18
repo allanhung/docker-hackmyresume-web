@@ -36,11 +36,14 @@
       "endDate": "Present",
       "summary": "Automate cloud infrastructure, systems scalability, and systems/network security.",
       "highlights": [
-        "Build lab envirnment for learning netbase knowledge.",
-        "Build kubernetes develop envirnment (Prometheus operator, fluent-bit with loki and syslog module).",
-        "Patch alicloud oss bucket flexvolume driver for kubernetes.",
-        "Config management (spring cloud config).",
-        "Service discovery for prometheus"
+        "First level support for engineer team",
+        "Production on-call support rotation",
+        "Kubernetes envirnment steup (Prometheus operator, fluent-bit with loki and syslog module, Persistent Volumes).",
+        "Mirgrate application to kubernetes.",
+        "Kuberflow envirnment steup (istio, knative and kfserving).",
+        "File based service discovery for alicloud in prometheus",
+        "Implemented security scan in jenkins pipeline (OWASP ZAP)",
+        "Implemented GoReplay for testing."
       ] 
     },  
     {
