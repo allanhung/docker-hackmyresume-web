@@ -87,7 +87,7 @@
         "Implemented netflow dashboard. (nfdump, kafka).",
         "Setup and manage multiple servres. (lvs, nginx,  php,  redis,  rabbitmq,  solr) (2000+ VMs)",
         "Implemented automated installation system for Linux and VMWare. (saltstack, ansible, cobbler)",
-        "Implemented automated network devuce installation system. (saltstack, ansible, juniper)",
+        "Implemented automated network device installation system. (saltstack, ansible, juniper)",
         "Implemented image cache system (varnish) and optimize the hit ratio.",
         "Design the domain name rule for the http accelerate.",
         "Gitlab server administration.",
