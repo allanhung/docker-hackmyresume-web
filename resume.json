@@ -43,7 +43,8 @@
         "Kuberflow envirnment steup (istio, knative and kfserving).",
         "File based service discovery for alicloud in prometheus",
         "Implemented security scan in jenkins pipeline (OWASP ZAP)",
-        "Implemented GoReplay for testing."
+        "Implemented GoReplay for testing.",
+        "Test service mesh architecture in kubernetes."
       ] 
     },  
     {
@@ -241,6 +242,18 @@
       "url": "https://www.credential.net/97b2c195-1d16-4890-b341-e7c8db027e5e?key=7d2dd45734b77c70a0106d04082d7559d76a0cdca38ebd9a83682ce9dc092f8d",
       "startDate": "2019-12-09",
       "endDate": "2021-12-09"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer",
+      "url": "https://www.youracclaim.com/earner/earned/badge/ea96dd72-31b4-4ba8-a999-2770c831de80",
+      "startDate": "2020-02-25",
+      "endDate": "2023-02-25"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "url": "https://www.youracclaim.com/badges/8a6ac213-0531-4cca-9f1d-10097efd440f",
+      "startDate": "2020-02-26",
+      "endDate": "2023-02-26"
     }    
   ],
   "skills": [
