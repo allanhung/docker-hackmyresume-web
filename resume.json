@@ -2,7 +2,7 @@
   "basics": {
     "name": "TzuShun Hung",
     "label": "Senior DevOps Engineer at Netbase",
-    "summary": "**IT infrastructure and database administration with 12+ years experience** specializing in ecommerce and system architecture.",
+    "summary": "**IT infrastructure and database administration with 15+ years experience** specializing in ecommerce and system architecture.",
     "phone": "+886939891035",
     "email": "hung.allan@gmail.com",
     "picture": "https://avatars2.githubusercontent.com/u/7939780",
@@ -87,7 +87,7 @@
         "Implemented netflow dashboard. (nfdump, kafka).",
         "Setup and manage multiple servres. (lvs, nginx,  php,  redis,  rabbitmq,  solr) (2000+ VMs)",
         "Implemented automated installation system for Linux and VMWare. (saltstack, ansible, cobbler)",
-        "Implemented automated network devuce installation system. (saltstack, ansible, juniper)",
+        "Implemented automated network device installation system. (saltstack, ansible, juniper)",
         "Implemented image cache system (varnish) and optimize the hit ratio.",
         "Design the domain name rule for the http accelerate.",
         "Gitlab server administration.",
@@ -235,6 +235,12 @@
       "url": "https://www.certmetrics.com/amazon/public/badge.aspx?i=5&t=c&d=2019-01-17&ci=AWS00502599",
       "startDate": "2019-01-17",
       "endDate": "2022-01-18"
+    },
+    {
+      "name": "Google Cloud Certified - Professional Cloud Architect",
+      "url": "https://www.credential.net/97b2c195-1d16-4890-b341-e7c8db027e5e?key=7d2dd45734b77c70a0106d04082d7559d76a0cdca38ebd9a83682ce9dc092f8d",
+      "startDate": "2019-12-09",
+      "endDate": "2021-12-09"
     }    
   ],
   "skills": [
