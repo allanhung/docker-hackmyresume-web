@@ -42,9 +42,11 @@
         "Mirgrate application to kubernetes.",
         "Kuberflow envirnment steup (istio, knative and kfserving).",
         "File based service discovery for alicloud in prometheus",
+        "Investigating istio for service mesh architecture in kubernetes.",
+        "Implemented alertmanager to handles alerts",
+        "Implemented virtual-kubelet for spark on kubernetes",
         "Implemented security scan in jenkins pipeline (OWASP ZAP)",
-        "Implemented GoReplay for testing.",
-        "Test service mesh architecture in kubernetes."
+        "Implemented GoReplay for testing."
       ] 
     },  
     {
