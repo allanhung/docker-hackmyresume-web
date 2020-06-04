@@ -38,9 +38,9 @@
       "highlights": [
         "First level support for engineer team",
         "Production on-call support rotation",
-        "Kubernetes envirnment steup (Prometheus operator, fluent-bit with loki and syslog module, Persistent Volumes).",
+        "Kubernetes envirnment setup (Prometheus operator, fluent-bit with loki and syslog module, Persistent Volumes).",
         "Mirgrate application to kubernetes.",
-        "Kuberflow envirnment steup (istio, knative and kfserving).",
+        "Kuberflow envirnment setup (istio, knative and kfserving).",
         "File based service discovery for alicloud in prometheus",
         "Investigating istio for service mesh architecture in kubernetes.",
         "Implemented alertmanager to handles alerts",
@@ -56,9 +56,9 @@
       "position": "DBA II",
       "startDate": "2017-02",
       "endDate": "2019-06",
-      "summary": "Database Architecture and performance tunning. Build AWS RDS like service.",
+      "summary": "Database Architecture and performance tuning. Build AWS RDS like service.",
       "highlights": [
-        "MySQL Database troubleshooting and performance tunning.",
+        "MySQL Database troubleshooting and performance tuning.",
         "Implemented MySQL 3-site replication.",
         "Porting MySQL HA architecture(MySQL-mmm) to AWS.",
         "Provide training and workshop of ansible to RD Team.",
