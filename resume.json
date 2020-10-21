@@ -41,13 +41,16 @@
         "Kubernetes envirnment setup (Prometheus operator, fluent-bit with loki and syslog module, Persistent Volumes).",
         "Mirgrate application to kubernetes.",
         "Kuberflow envirnment setup (istio, knative and kfserving).",
-        "File based service discovery for alicloud in prometheus",
+        "Implemented Service discovery for alicloud",
         "Investigating istio for service mesh architecture in kubernetes.",
-        "Implemented alertmanager to handles alerts",
-        "Implemented virtual-kubelet for spark on kubernetes",
-        "Implemented security scan in jenkins pipeline (OWASP ZAP)",
+        "Implemented virtual-kubelet on kubernetes",
+        "Implemented security scan pipeline (OWASP ZAP)",
         "Implemented GoReplay for testing.",
-        "AWS RDS migrate to Alicloud"
+        "Implemented infrastructure as code (Terraform, Terragrunt)",
+        "Maintain helm charts repo",
+        "Migrate AWS RDS to Alicloud Apsara",
+        "Implemented loki stack for logging",
+        "Improve monitoring and alerting system"
       ] 
     },  
     {
