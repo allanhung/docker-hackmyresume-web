@@ -48,7 +48,7 @@
         "Implemented GoReplay for testing.",
         "Implemented infrastructure as code (Terraform, Terragrunt)",
         "Maintain helm charts repo",
-        "Migrate AWS RDS to Alicloud Apsara",
+        "Migrate AWS to Alicloud",
         "Implemented loki stack for logging",
         "Improve monitoring and alerting system"
       ] 
