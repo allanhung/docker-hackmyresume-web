@@ -40,6 +40,7 @@
         "Production on-call support rotation",
         "Setup kubernetes envirnment",
         "Setup Kuberflow envirnment (istio, knative and kfserving).",
+        "Kubernetes upgrade",
         "Help to mirgrate existing application to kubernetes.",
         "Implemented Service discovery for prometheus monitor targets",
         "Investigating istio for service mesh architecture in kubernetes.",
@@ -49,7 +50,13 @@
         "Implemented infrastructure as code (Terraform, Terragrunt)",
         "Maintain helm charts repo",
         "Migrate AWS to Alicloud",
+        "Deploy and manage highly available MySQL cluster in kubernetes",
+        "Implemented mysql-operator loki stack for logging",
         "Implemented loki stack for logging",
+        "Implemented cert-manager to automate certificates from let's encrypt",
+        "Integrate OAuth with Kubernetes",
+        "Setup autoscaler with Kuberneteis",
+        "Provide RAM credentials to kubernetes pods (Kube2ram)",
         "Improve monitoring and alerting system"
       ] 
     },  
@@ -284,18 +291,24 @@
       "name": "Softwares",
       "keywords": [
         "ansible",
+        "cert-manager",
         "coredns",
+        "consul",
+        "dex",
         "docker",
         "elasticsearch",
         "etcd",
         "fluent-bit",
         "gitlab",
         "grafana",
+        "istio",
+        "linkerd",
         "logstash",
         "loki",
         "lvs",
         "jenkins",
         "kafka",
+        "kube2ram",
         "kubernetes",
         "mongodb",
         "mysql",
@@ -309,7 +322,9 @@
         "squid",
         "terraform",
         "terraformer",
-        "varnish"
+        "terragrunt",
+        "varnish",
+        "vault"
       ]
     },
     {
